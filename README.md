@@ -1,4 +1,5 @@
  **Sales Performance & Insights — Data Analytics Project**
+ 
 **Author: Besong Justin | Internship: DecodeLabs Data Analytics Programme**
 
  **Project 2:** Exploratory Data Analysis (EDA) — Microsoft Excel
