@@ -40,3 +40,8 @@ Outliers were identified using the **IQR (Interquartile Range) method**:
 - Instagram was the top referral source (~$275K revenue)
 - **41.42%** of orders were Cancelled or Returned — a critical finding
 - 8 outlier orders detected across Laptop, Monitor, Tablet, Chair and Printer
+
+**Author:**
+**Besong Justin**
+- LinkedIn: [linkedin.com/in/besong-justin](https://www.linkedin.com/in/justinbesong/)
+- Twitter/X: [@Justin_analyst](https://twitter.com/Justin_analyst)
